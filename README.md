@@ -2,7 +2,7 @@
 
 **`Web Development Student`**
 
-*I’m currently learning 🌱 Full Stack Web Development* 💻 
+*I’m currently learning 🌱 Full Stack Web Development and 🕵️‍♀️ JR Penetration Tester* 💻 
 
 <!---
 elenakovacs/elenakovacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
