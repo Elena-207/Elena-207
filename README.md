@@ -1,6 +1,6 @@
 # 🌈 Elena Kovacs
 
-**`Web Development Student`**
+**`Full Stack Web Development Student`**
 
 *I’m currently learning 🌱 Full Stack Web Development and 🕵️‍♀️ Jr Penetration Tester* 💻 
 
