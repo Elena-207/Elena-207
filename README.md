@@ -1,4 +1,4 @@
-# 🌈 Elena Kovacs
+#  Elena Kovacs
 
 **`Full Stack Web Development`**
 
